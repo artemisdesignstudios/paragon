@@ -58,7 +58,7 @@
 
 ## Configuring your PCB through VIA
 
-1. Download [paragon_via_config.json](paragon_via_config.json) from our repository.
+1. Download [paragon_via_config.json](/pcb_files/via_files/paragon_via_config.json) from our repository.
 
 2. Go to the [VIA](https://usevia.app/) website.
 
