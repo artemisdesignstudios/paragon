@@ -1,4 +1,4 @@
-# Configuring Your Paragon PCB
+# Configuring Your Paragon PCB with VIA
 
 ### 05.11.2023 Update:
 - New hex files have been created for the Paragon PCBs which now provide support for customizing the encoder out of the box!
@@ -16,8 +16,8 @@
 ## Flashing the PCB
 
 1. Download the appropriate hex file for your PCB.
-    - **Solder:** [paragon_solder_via.hex](paragon_solder_via.hex)
-    - **Hotswap:** [paragon_hotswap_via.hex](paragon_hotswap_via.hex)
+    - **Solder:** [/via_files/paragon_solder_via.hex](/pcb_files/via_files/paragon_solder_via.hex)
+    - **Hotswap:** [/via_files/paragon_hotswap_via.hex](/pcb_files/via_files/paragon_hotswap_via.hex)
 
 2. Open QMK Toolbox. 
 
