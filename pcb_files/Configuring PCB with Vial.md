@@ -53,7 +53,7 @@
 
 ## Configuring your PCB through Vial
 
-1. Head over to **[vial.rocks](https://www.vial.rocks)** with your PCB connected to your device.
+1. Head over to **[vial.rocks](https://vial.rocks)** with your PCB connected to your device.
 
 2. Click on `Start Vial`. A list of connected devices should pop up.
 
