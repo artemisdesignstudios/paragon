@@ -10,9 +10,9 @@
 
 ## Flashing the PCB
 
-1. Download the appropriate hex file for your PCB.
-    - **Solder:** [/vial_files/paragon_solder_vial.hex](/pcb_files/vial_files/paragon_solder_vial.hex)
-    - **Hotswap:** [/vial_files/paragon_hotswap_vial.hex](/pcb_files/vial_files/paragon_hotswap_vial.hex)
+1. Download the appropriate hex file for your PCB. When downloading, please click on the link, then hit `Ctrl/Cmd + S` and save the file from the link. They will maintain their `.hex` file extension.
+    - **Solder:** [/vial_files/paragon_solder_vial.hex](https://raw.githubusercontent.com/artemisdesignstudios/paragon/main/pcb_files/vial_files/paragon_solder_vial.hex)
+    - **Hotswap:** [/vial_files/paragon_hotswap_vial.hex](https://raw.githubusercontent.com/artemisdesignstudios/paragon/main/pcb_files/vial_files/paragon_hotswap_vial.hex)
 
 2. Open QMK Toolbox. 
 

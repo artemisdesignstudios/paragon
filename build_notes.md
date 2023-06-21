@@ -16,9 +16,9 @@ This document contains some of our thoughts when building the Paragon. We highly
 
 ## Gaskets
 
-After testing three Paragon prototypes, we found that the most optimal typing experience came from applying the **poron gaskets** to the **bottom half of the case**. 
+After testing three Paragon prototypes, we found that the most optimal typing experience came from applying the **poron gaskets** to the **bottom half of the case**. If you are uncomfortable with any movement of the build within the case, we suggest applying the top gaskets to the **4 corners** of the build. This will create a bit more friction in the build to remove any movement.
 
-Silicon gaskets were an optional add-on for the Paragon. Slicon is stiffer than poron, but can still be used to create a unique typing experience. We encourage you guys to test out which gaskets appeal to your typing preferences!
+Silicon gaskets were an optional add-on for the Paragon. Silicon is stiffer than poron, but can still be used to create a unique typing experience. We encourage you guys to test out which gaskets appeal to your typing preferences!
 
 ## Foam
 

@@ -16,8 +16,8 @@
 ## Flashing the PCB
 
 1. Download the appropriate hex file for your PCB.
-    - **Solder:** [/via_files/paragon_solder_via.hex](/pcb_files/via_files/paragon_solder_via.hex)
-    - **Hotswap:** [/via_files/paragon_hotswap_via.hex](/pcb_files/via_files/paragon_hotswap_via.hex)
+    - **Solder:** [/via_files/paragon_solder_via.hex](https://raw.githubusercontent.com/artemisdesignstudios/paragon/main/pcb_files/via_files/paragon_solder_via.hex)
+    - **Hotswap:** [/via_files/paragon_hotswap_via.hex](https://raw.githubusercontent.com/artemisdesignstudios/paragon/main/pcb_files/via_files/paragon_hotswap_via.hex)
 
 2. Open QMK Toolbox. 
 
@@ -58,7 +58,7 @@
 
 ## Configuring your PCB through VIA
 
-1. Download [paragon_via_config.json](/pcb_files/via_files/paragon_via_config.json) from our repository.
+1. Download [paragon_via_config.json](https://raw.githubusercontent.com/artemisdesignstudios/paragon/main/pcb_files/via_files/paragon_via_config.json) from our repository.
 
 2. Go to the [VIA](https://usevia.app/) website.
 
